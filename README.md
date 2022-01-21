@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FerryCarondelet
-- 👀 I’m interested in RPA, Python, Blockchains and AI
+- 👀 I’m interested in RPA, Python, Blockchain and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on all kinds of projects in the fields of AI, DEFI and Process Automation
 - 📫 How to reach me ...
