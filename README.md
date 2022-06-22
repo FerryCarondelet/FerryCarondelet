@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabian Altendorfer alias Ferry Carondelet
+- 👋 Hi, I’m Fabian Altendorfer
 - 👀 I’m interested in RPA, Python and Data Science
 - 🌱 I’m currently learning Python, RegEx and UIPath
 - 💞️ I’m looking to collaborate on all kinds of projects in the fields of AI and Process Automation
